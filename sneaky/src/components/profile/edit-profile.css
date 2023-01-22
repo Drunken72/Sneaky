@@ -1,0 +1,94 @@
+.edit-main {
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk2MC1uaW5nLTMwLmpwZw.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* height: 100% !important; */
+}
+
+.outbox {
+    margin-top: 22vh;
+}
+
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #BA68C8;
+}
+
+
+.profile-button {
+    background: #e38800 !important;
+    box-shadow: none;
+    border: none !important;
+}
+
+.profile-button:hover {
+    background: #fa8100 !important;
+}
+
+.profile-button:focus {
+    background: #682773;
+    box-shadow: none;
+}
+
+.profile-button:active {
+    background: #682773;
+    box-shadow: none;
+}
+
+.back:hover {
+    color: #682773;
+    cursor: pointer;
+}
+
+.labels {
+    font-size: 11px;
+}
+
+.add-experience:hover {
+    background: #BA68C8;
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px #BA68C8;
+}
+
+.upload img {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    display: flex;
+
+
+
+
+
+}
+
+.upload .round {
+    background-color: orange;
+    text-align: center;
+
+    border-radius: 50%;
+    margin-left: 55px;
+    margin-top: 98px;
+}
+
+.round {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    line-height: 27px;
+    overflow: hidden;
+    border-radius: 50%;
+    text-align: center;
+
+
+}
+
+.round input[type='file'] {
+    position: absolute;
+    transform: scale(2);
+    opacity: 0;
+    bottom: 0;
+}

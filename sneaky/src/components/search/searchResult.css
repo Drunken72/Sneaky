@@ -1,0 +1,55 @@
+#search-addon {
+  background: orange;
+}
+
+#search {
+  color: white !important;
+  background: orange !important;
+}
+
+#dropdown-menu-align-end,
+#dropdown-menu-align-start {
+  color: white !important;
+  background: orange !important;
+  font-weight: bold;
+  border: none;
+  border-radius: 15px;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.filter_sort {
+  width: 20% !important;
+}
+
+.filter_category::-webkit-scrollbar {
+  width: 0;
+
+}
+
+.filter_category {
+  width: 80% !important;
+
+  line-height: 0px;
+  display: flex;
+  overflow-x: auto;
+}
+
+.categorybtn {
+  white-space: nowrap;
+  height: auto;
+  border: none;
+  border-radius: 25px;
+background: orange;
+color:white;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.quack{
+    width: 200px !important;
+    height: auto;
+    object-fit: cover;
+}

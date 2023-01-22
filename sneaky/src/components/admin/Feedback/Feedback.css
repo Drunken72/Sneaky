@@ -1,0 +1,29 @@
+.card-title {
+    width: 500px;
+
+    display: flex;
+    /* justify-content: space-between; */
+
+}
+
+.card__image {
+    width: 80px;
+    margin-inline: 10px;
+}
+
+
+.card__info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+.container #feedcard {
+    margin-left: 15%;
+}
+
+.container #feedbacktitle {
+    margin-left: 15%;
+    margin-top: 80px;
+}
