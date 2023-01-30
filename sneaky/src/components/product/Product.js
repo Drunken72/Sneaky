@@ -254,9 +254,9 @@ const Product = () => {
     <>
       <div className="divider">
       <div className="first_divide">
-        <Navbar />
+        <NavigateBlack />
         </div>
-        <div className="second_divide">
+        <div className="second_divide mt-5">
         <div className="container-fluid product_container">
           <div className="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2   p-5">
             <div className="col container-fluid slider_container  p-2">

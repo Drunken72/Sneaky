@@ -4,7 +4,7 @@ import "../Dashboard/dash.css";
 import { MDBIcon } from 'mdb-react-ui-kit';
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
-
+import logo from "../../../photo/logo.png";
 
 const Dash_admin = () => {
   const [details, setDetails] = useState('');
@@ -35,9 +35,9 @@ const Dash_admin = () => {
           <div className="sidebar-brand">
             <h2>
               <span className="lab la-accusoft"></span>
-              <MDBIcon fas icon="user-graduate" />
+              
 
-              <span>AntiQuette </span>
+              <span> <img src={logo} alt="logo" />  </span>
             </h2>
           </div>
           <div className="sidebar-menu">

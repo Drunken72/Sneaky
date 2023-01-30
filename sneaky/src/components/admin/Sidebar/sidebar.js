@@ -1,6 +1,7 @@
 import { MDBIcon } from "mdb-react-ui-kit";
 import React from "react";
 import "./sidebar.css";
+import logo from "../../../photo/logo.png";
 
 const Sidebar = () => {
   return (
@@ -11,9 +12,9 @@ const Sidebar = () => {
         <div className="widebar-brand">
           <h2>
             <span className="lab la-accusoft"></span>
-            <MDBIcon fas icon="user-graduate" />
             
-            <span>AntiQuette </span>
+            
+            <span> <img src={logo} alt="logo" />  </span>
             
           </h2>
           

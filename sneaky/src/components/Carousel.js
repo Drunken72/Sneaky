@@ -15,7 +15,7 @@ const CarouselImg=()=>{
             <Carousel.Item>
                  <img
                 className="d-block w-100 h-10 caroimg"
-                src="https://images.pexels.com/photos/265006/pexels-photo-265006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d4c3ab4b-99ba-456e-b931-a61e7df92750/df67ki9-a8847db8-3a18-4e34-b526-ac450ae14107.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q0YzNhYjRiLTk5YmEtNDU2ZS1iOTMxLWE2MWU3ZGY5Mjc1MFwvZGY2N2tpOS1hODg0N2RiOC0zYTE4LTRlMzQtYjUyNi1hYzQ1MGFlMTQxMDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-JyR_JY-2i9ltHV3yZ_L9Y3eKbyMps3yM-drfLOCy-c"
                 alt="First slide"
                 />
                 <Carousel.Caption>
@@ -25,7 +25,7 @@ const CarouselImg=()=>{
             <Carousel.Item>
                 <img
                 className="d-block w-100 h-10 caroimg"
-                src="https://c0.wallpaperflare.com/preview/1024/195/816/black-bike-bicycle-product.jpg"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZmPEbn8jvbNx8T92oEfNvuFCXh2gFKoSTA&usqp=CAU"
                 alt="Second slide"
                 />
 

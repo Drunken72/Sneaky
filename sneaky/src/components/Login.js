@@ -143,7 +143,7 @@ const Login=()=> {
                       </style.LeftOverlayPanel>
 
                       <style.RightOverlayPanel signinIn={signIn}>
-                        <style.Title>AntiQuette</style.Title>
+                        <style.Title>Sneaky</style.Title>
                         <style.Paragraph>
                             | Explore the Marketplace | 
                         </style.Paragraph>
